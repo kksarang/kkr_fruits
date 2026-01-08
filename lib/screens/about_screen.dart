@@ -54,7 +54,7 @@ class AboutScreen extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   const Text(
-                    "Our Story",
+                    'Our Story',
                     style: TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
@@ -63,7 +63,7 @@ class AboutScreen extends StatelessWidget {
                   ),
                   const SizedBox(height: 12),
                   const Text(
-                    "KKR Fruits provides the freshest seasonally available fruits and high-quality stationery for all your needs. Quality and customer satisfaction are our top priorities.",
+                    'KKR Fruits provides the freshest seasonally available fruits and high-quality stationery for all your needs. Quality and customer satisfaction are our top priorities.',
                     style: TextStyle(color: AppTheme.lightText, height: 1.6),
                   ),
                   const SizedBox(height: 24),
